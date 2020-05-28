@@ -16,5 +16,11 @@
     "dependencies": [
       "com.github.tmtsoftware.esw:esw-sm-app_2.13:latest.release"
     ]
+  },
+  "dummy-app4": {
+    "repositories": ["jitpack", "central"],
+    "dependencies": [
+      "com.github.tmtsoftware.esw:esw-sm-app_2.13:latest.release"
+    ]
   }
 }
