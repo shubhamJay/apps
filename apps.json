@@ -1,5 +1,5 @@
 {
-  "dummy-app": {
+  "dummy-app7": {
     "repositories": ["jitpack", "central"],
     "dependencies": [
       "com.github.tmtsoftware.esw:esw-sm-app_2.13:latest.release"
