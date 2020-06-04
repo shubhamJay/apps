@@ -10,6 +10,6 @@
     "dependencies": [
       "com.github.tmtsoftware:sequencer-scripts:0.1.0"
     ],
-    "main-class":"esw.ocs.app.SequencerApp"
+    "mainClass":"esw.ocs.app.SequencerApp"
   }
 }
