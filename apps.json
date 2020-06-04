@@ -11,5 +11,5 @@
       "com.github.tmtsoftware.esw:esw-ocs-app_2.13:latest.release",
       "com.github.tmtsoftware:sequencer-scripts:0.1.0"
     ]
-  },
+  }
 }
