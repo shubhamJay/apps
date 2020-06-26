@@ -15,7 +15,7 @@
   "kotlinc": {
     "repositories": ["central"],
     "dependencies": [
-        'org.jetbrains.kotlin:kotlin-compiler:latest.release"
+        "org.jetbrains.kotlin:kotlin-compiler:latest.release"
     ]
   }
 }
