@@ -11,5 +11,11 @@
       "com.github.tmtsoftware:sequencer-scripts:0.1.0"
     ],
     "mainClass":"esw.ocs.app.SequencerApp"
+  },
+  "kotlinc": {
+    "repositories": ["central"],
+    "dependencies": [
+        'org.jetbrains.kotlin:kotlin-compiler:latest.release"
+    ]
   }
 }
